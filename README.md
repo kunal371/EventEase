@@ -1,0 +1,2 @@
+# EventEase
+Event booking system
